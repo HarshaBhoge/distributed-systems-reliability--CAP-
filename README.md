@@ -58,13 +58,7 @@ pip install -r requirements.txt
 
 ### 3. Create Environment File
 
-Create a `.env` file:
-
-```env
-REDIS_HOST=localhost
-REDIS_PORT=6379
-REDIS_DB=0
-```
+Create a .env file using the values provided in .env.example before running the project.
 
 ### 4. Start Redis (Memurai)
 
